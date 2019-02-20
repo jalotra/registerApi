@@ -1,4 +1,5 @@
-var gulp = require('gulp'),
+// THis file creates a gulp liveserver
+ var gulp = require('gulp'),
   gutil = require('gulp-util'),
   webserver = require('gulp-webserver');
 
